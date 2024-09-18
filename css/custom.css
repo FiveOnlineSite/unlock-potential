@@ -1,0 +1,401 @@
+:root {
+  --green-text-color: #629e40;
+  --blue-text-color: #165096;
+  --white-text-color: #fff;
+}
+
+.testimonial-content {
+  margin-bottom: 80px;
+}
+
+.testimonial.style-1 .testimonial-content p {
+  font-size: 18px;
+  text-align: left;
+}
+
+.navbar-brand h4 {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+.testimonial-content p {
+  font-size: 16px;
+  padding: 0;
+  /* text-align: justify; */
+}
+
+.contact-feature {
+  height: 290px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.featured-title h5 {
+  font-size: 18px;
+}
+
+.testimonial .owl-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .brands-carousel .owl-carousel .owl-stage {
+  transform: translate3d(-1648px, 0px, 0px) !important;
+} */
+
+[data-overlay]:before {
+  background-color: transparent;
+}
+
+.header-2 .navbar-nav .nav-link:hover,
+.header-2 .navbar-nav .nav-item .nav-link.active {
+  color: var(--green-text-color);
+}
+
+.navbar-nav .nav-link {
+  /* color: var(--blue-text-color); */
+}
+
+#header-wrap.fixed-header {
+  background-color: var(--blue-text-color);
+}
+
+#header-wrap.fixed-header .nav-item {
+  color: var(--white-text-color) !important;
+}
+
+.tab .nav-tabs .nav-link.active,
+.tab .nav-tabs .nav-link:hover,
+.tab .nav-tabs.active > a:focus,
+.tab .nav-tabs > a:hover {
+  background-color: var(--blue-text-color);
+}
+
+.theme-bg {
+  background-color: var(--blue-text-color);
+}
+
+.testimonial .testimonial-caption label {
+  color: var(--green-text-color);
+}
+
+.testimonial .testimonial-caption h5 {
+  color: var(--blue-text-color);
+}
+
+.btn-2:before {
+  background-color: var(--blue-text-color);
+}
+
+.scroll-top a,
+.scroll-top a:visited {
+  background-color: var(--blue-text-color);
+}
+
+.footer-list li a {
+  font-size: 14px;
+}
+
+.footer-list li a:hover {
+  color: var(--green-text-color);
+}
+
+.media-icon li i {
+  color: var(--green-text-color);
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 50px;
+}
+
+.fa-chevron-left:before {
+  position: absolute;
+  top: 25%;
+  left: 15px;
+}
+
+.fa-chevron-right:before {
+  position: absolute;
+  top: 25%;
+  right: 15px;
+}
+
+.owl-carousel .owl-nav button.owl-prev:hover,
+.owl-carousel .owl-nav button.owl-next:hover,
+.banner-slider.owl-carousel .owl-nav button.owl-prev:hover,
+.banner-slider.owl-carousel .owl-nav button.owl-next:hover {
+  background-color: var(--blue-text-color);
+}
+
+.header-2 .navbar-nav .nav-link {
+  padding: 0 16px !important;
+}
+
+.testimonial .owl-carousel .owl-nav {
+  top: 34%;
+}
+
+.media-icon li a:hover {
+  color: var(--green-text-color);
+}
+
+#mc-form .btn {
+  background-color: var(--blue-text-color);
+}
+
+#mc-form .btn:hover {
+  background-color: var(--green-text-color);
+}
+
+.featured-item.style-3 .featured-icon {
+  position: relative;
+}
+
+.featured-item.style-3 .featured-icon img {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 28%;
+  left: 28%;
+}
+
+.programmes .nav-item img {
+  position: absolute;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+}
+
+.featured-item.style-6 .featured-icon img {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 28%;
+  left: 28%;
+}
+
+.counter-icon img {
+  width: 60px;
+  height: 60px;
+}
+
+.counter-desc {
+  margin-top: 25px;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler:focus {
+  box-shadow: none;
+}
+
+.navbar-collapse .nav-item {
+  margin: 10px 0;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: var(--green-text-color);
+}
+
+.fullscreen-banner .owl-carousel,
+.fullscreen-banner .owl-stage-outer,
+.fullscreen-banner .owl-stage,
+.fullscreen-banner .owl-item,
+.fullscreen-banner .item {
+  position: relative;
+}
+
+.banner-text {
+  position: absolute;
+  top: 10%;
+}
+
+.corporate-program-div .section-title {
+  display: flex;
+  justify-content: flex-end;
+  text-align: start;
+  margin-top: 112px;
+}
+
+.corporate-program-div .cases-item.style-2 .cases-desc {
+  height: 380px;
+}
+
+.side-top-bg:before {
+  background-color: var(--blue-text-color);
+}
+
+a:focus,
+a:hover {
+  color: var(--green-text-color);
+}
+
+.owl-carousel .owl-dots .owl-dot:hover span,
+.owl-carousel .owl-dots .owl-dot.active span {
+  color: var(--blue-text-color);
+}
+
+.owl-carousel .owl-dots .owl-dot.active:before,
+.owl-carousel .owl-dots .owl-dot.active:after {
+  background-color: var(--green-text-color);
+}
+
+.owl-carousel .owl-dots .owl-dot:hover span,
+.owl-carousel .owl-dots .owl-dot.active span {
+  border-color: var(--blue-text-color);
+}
+
+.owl-carousel .owl-dots .owl-dot.active:before,
+.owl-carousel
+  .owl-dots
+  .owl-dot.active:after
+  .owl-carousel
+  .owl-dots
+  .owl-dot:not(:last-child):after {
+  color: var(--blue-text-color);
+}
+
+.breadcrumb-item.active,
+.breadcrumb-item a:hover {
+  color: var(--green-text-color);
+}
+
+.executive-coach-points {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+}
+
+.executive-coach-points span {
+  padding-right: 5px;
+}
+
+.post .post-desc h4 a {
+  text-transform: capitalize;
+}
+
+.post .post-desc h4 a:hover {
+  color: var(--green-text-color);
+}
+
+.btn-2:hover:before {
+  background-color: var(--green-text-color) !important;
+  color: var(--white-text-color);
+}
+
+.team-member.style-1 .team-description {
+  margin: 12px 25px 0;
+}
+
+.team-member p {
+  text-align: justify;
+}
+
+.text-white .testimonial.style-2 .testimonial-content p {
+  text-align: justify;
+}
+
+.coaching-testimonial .owl-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.facilitation-testimonial .owl-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clients .featured-icon img {
+  height: auto;
+  width: 100%;
+}
+
+.featured-item.style-4:hover {
+  background: transparent;
+}
+
+.featured-item.style-4 .featured-desc {
+  /* transition: transform 0.8s ease-in-out; */
+}
+
+.featured-item.style-4:hover .featured-desc {
+  /* transform: translate3d(0, -72px, 0); */
+}
+
+.tab .nav-tabs {
+  align-items: center;
+  justify-content: center;
+}
+
+.primary-footer h4 {
+  font-size: 20px;
+}
+
+.cases-desc .btn-simple {
+  font-size: 18px;
+}
+
+.btn-simple:hover {
+  color: var(--white-text-color);
+}
+
+.executive-coaching-desc.featured-item {
+  height: 400px;
+}
+
+.section-title h6 {
+  color: var(--blue-text-color);
+}
+@media screen and (max-width: 990px) {
+  .fullscreen-banner .owl-carousel,
+  .fullscreen-banner .owl-stage-outer,
+  .fullscreen-banner .owl-stage,
+  .fullscreen-banner .owl-item,
+  .fullscreen-banner .item {
+    height: 100vh;
+    object-fit: cover;
+  }
+
+  .testimonial.style-1 .testimonial-content p {
+    padding: 0;
+  }
+
+  .corporate-program-div .section-title {
+    margin-top: 0;
+  }
+
+  .section-title {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  section {
+    padding: 50px 0;
+  }
+
+  .counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .counter-desc {
+    text-align: center;
+  }
+
+  .featured-item {
+    height: auto;
+  }
+}
